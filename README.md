@@ -28,13 +28,13 @@ My specialties include working with Python and the related Data Science stack, A
 
 ### GitHub Stats
 
-<p align="center"   >
+<!-- <p align="center">
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliverskaus&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=oliverskaus&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Oliver's GitHub Stats" />
 
-</p>     
+</p>      -->
 
 ### Certifications:
 * AWS Solutions Architect -  [See credential](https://www.youracclaim.com/badges/ca607c4a-b5c8-4709-80f4-9f5edd51dafe)

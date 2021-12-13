@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm Oliver, a Senior Data Scientist with a big passion for computer science and experience in leading Machine Learning projects.
 
-My specialties include working with Python and the related Data Science stack, AWS, Machine Learning & MLOps. For more detailed information about my skills, interests and side projects, visit [kaus.dev](https//kaus.dev).
+My specialties include working with Python and the related Data Science stack, AWS, Machine Learning & MLOps. For more detailed information about my skills, interests and side projects, visit [kaus.dev](https://kaus.dev).
 
 ### Experience 🔭:
 * Senior Data Scientist at DAZN
